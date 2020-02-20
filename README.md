@@ -18,4 +18,7 @@ Download presentation: ModernSoftwarePractices-team.pptx
 - https://community.canvaslms.com/groups/gamification/blog/2016/03/23/grade-with-emoji
 - https://opensource.com/article/19/2/emoji-log-git-commit-messages
 
+## Take Actions
+- https://education.github.com
+
 
