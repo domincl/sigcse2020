@@ -1,6 +1,6 @@
 # Bringing Modern Software Practices to Your Department and Your Classroom
 
-Download presentation: [ModernSoftwarePractices-Team.pdf](http://./ModernSoftwarePractices-Team.pdf)
+Download presentation: [ModernSoftwarePractices-Team.pdf](ModernSoftwarePractices-Team.pdf)
 
 ## Instructor
 - Github: @dominicl
