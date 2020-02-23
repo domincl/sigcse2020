@@ -12,10 +12,15 @@ Download presentation: [ModernSoftwarePractices-Team.pdf](ModernSoftwarePractice
 - In Stoddard, E., In Wobbe, K., & In Bass, R. (2019). Project-based learning in the first year: Beyond all expectations.
 
 ## Ressources
-- https://community.canvaslms.com/groups/gamification/blog/2016/03/23/grade-with-emoji
-- https://opensource.com/article/19/2/emoji-log-git-commit-messages
+- https://guides.github.com/features/issues/
+- https://help.github.com/en/github/managing-your-work-on-github/about-project-boards
+- https://help.github.com/en/github/visualizing-repository-data-with-graphs/viewing-a-projects-contributors
 
 ## Take Actions
-- https://education.github.com
+- https://community.canvaslms.com/groups/gamification/blog/2016/03/23/grade-with-emoji
+- https://education.github.com/teachers 
+- https://classroom.github.com/
+- https://github.com/organizations/plan
+
 
 
